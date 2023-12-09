@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-Live site URL : https://ecomm-kunals-projects-20f1b7c9.vercel.app/
+Live site URL : https://kunal-ecomm.vercel.app/
